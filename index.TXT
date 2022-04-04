@@ -325,9 +325,9 @@
                                 <i class="ion-ios-browsers-outline front-icon"></i>
                             </div>
                             <div class="features-text-right">
-                                <h3>Web & Graphics design</h3>                         
+                                <h3>Tarjetas débito</h3>                         
                                 <p>
-                                    Vivamus congue diam vitae tortor imperdiet congue. Nullam sagittis, tristique diam, ut ullamcorper tellus. Cras porttitor massa.
+                                    Realiza compras, pagos y transacciones en establecimientos o por internet. 
                                 </p>
                             </div>
                         </div>
